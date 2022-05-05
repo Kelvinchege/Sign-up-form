@@ -1,0 +1,11 @@
+.container {
+    color: red;
+    border: 1px solid black;
+    width: 200px;
+}
+
+input[type-text] {
+    color: black;
+    border-radius: 20px;
+    border: 1px solid blue;
+}
